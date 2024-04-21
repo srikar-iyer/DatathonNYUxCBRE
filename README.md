@@ -62,8 +62,11 @@ Access to satellite imagery data (e.g., Bing Maps API)
 
 ### Contributors
 Chandana Srinivasa Yatisha (cs7074@nyu.edu) - New York University
+
 Srikar Iyer (smi6065@nyu.edu) - New York University
+
 Unce Shahid (us2056@nyu.edu) - New York University
+
 Anya Kondamani (ak8699@nyu.edu) - New York University
 
 ### Please Note: The final model is not the simple CNN model with accuracy 67% as mentioned in the video; we updated it to a different model (ref slides) 
