@@ -1,4 +1,5 @@
 # Project Repository Overview
+## Link to slides - https://docs.google.com/presentation/d/1S7SLj6zBwFhO1dV_DiJdLs02rH5djUAqbaNpyj-mwJY/edit?usp=sharing
 ### Repository Contents:
 
 ### BingAPI_.ipynb: 
