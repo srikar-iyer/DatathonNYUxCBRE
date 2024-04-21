@@ -1,5 +1,3 @@
-### Link to slides - https://docs.google.com/presentation/d/1S7SLj6zBwFhO1dV_DiJdLs02rH5djUAqbaNpyj-mwJY/edit?usp=sharing
-
 ### Warehouse Construction Progress Prediction for CBRE (https://www.cbre.com/)
 This project aims to predict the stage of progress of unseen warehouses using convolutional neural network (CNN) models and linear regression algorithms. The goal is to achieve between 70% to 60% accuracy in predicting warehouse progress stages and to estimate the number of quarters required for warehouse completion.
 
@@ -63,7 +61,8 @@ Access to satellite imagery data (e.g., Bing Maps API)
 Chandana Srinivasa Yatisha (cs7074@nyu.edu) - New York University
 Srikar Iyer (smi6065@nyu.edu) - New York University
 Unce Shahid (us2056@nyu.edu) - New York University
-Amya Kondamani (ak8699@nyu.edu) - New York University
+Anya Kondamani (ak8699@nyu.edu) - New York University
 
+### Link to slides - https://docs.google.com/presentation/d/1S7SLj6zBwFhO1dV_DiJdLs02rH5djUAqbaNpyj-mwJY/edit?usp=sharing
 
 ### Please Note: The final model is not the simple CNN model with accuracy 67% as mentioned in the video; we updated it to a different model (ref slides) 
