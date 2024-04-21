@@ -26,3 +26,5 @@ Image Specifications: 500x500 pixels; Zoom ratio used: 18.
 
 API: Microsoft Bing Maps (Virtual Earth).
 
+
+# Please Note: The final model is not the simple CNN model with accuracy 67% as mentioned in the video; we updated it to a different model (ref slides) 
