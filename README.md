@@ -28,15 +28,6 @@ Prediction:
 Use trained models to predict warehouse progress stages and completion timelines.
 Aggregate predictions to estimate the total number of completed warehouses within a given timeframe.
 
-### Requirements
-Python 3.x
-Libraries: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
-Access to satellite imagery data (e.g., Bing Maps API)
-### Contributors
-Chandana Srinivasa Yatisha (cs7074@nyu.edu) - New York University
-Srikar Iyer (smi6065@nyu.edu) - New York University
-Unce Shahid (us2056@nyu.edu) - New York University
-Amya Kondamani (ak8699@nyu.edu) - New York University
 ### Repository Contents:
 
 ### BingAPI_.ipynb: 
@@ -64,5 +55,16 @@ Image Specifications: 500x500 pixels; Zoom ratio used: 18.
 
 API: Microsoft Bing Maps (Virtual Earth).
 
+### Requirements
+Python 3.x
+Libraries: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+Access to satellite imagery data (e.g., Bing Maps API)
 
-## Please Note: The final model is not the simple CNN model with accuracy 67% as mentioned in the video; we updated it to a different model (ref slides) 
+### Contributors
+Chandana Srinivasa Yatisha (cs7074@nyu.edu) - New York University
+Srikar Iyer (smi6065@nyu.edu) - New York University
+Unce Shahid (us2056@nyu.edu) - New York University
+Amya Kondamani (ak8699@nyu.edu) - New York University
+
+
+### Please Note: The final model is not the simple CNN model with accuracy 67% as mentioned in the video; we updated it to a different model (ref slides) 
