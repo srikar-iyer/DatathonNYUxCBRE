@@ -1,4 +1,4 @@
-### Warehouse Construction Progress Prediction for CBRE (https://www.cbre.com/)
+### Warehouse Construction Progress Prediction for CBRE (https://www.cbre.com/) as part of NYUxCBRE (https://nyudscdatathon2024.com/)
 This project aims to predict the stage of progress of unseen warehouses using convolutional neural network (CNN) models and linear regression algorithms. The goal is to achieve between 70% to 60% accuracy in predicting warehouse progress stages and to estimate the number of quarters required for warehouse completion.
 
 Link to slides - https://docs.google.com/presentation/d/1S7SLj6zBwFhO1dV_DiJdLs02rH5djUAqbaNpyj-mwJY/edit?usp=sharing
