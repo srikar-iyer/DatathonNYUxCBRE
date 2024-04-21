@@ -21,6 +21,8 @@ project notebook containing Linear model solution using Stochastic Gradient Desc
 ### Data Source and Tools:
 
 Data: Aerial satellite imagery from Bing Maps; Atlanta supply data related to UC buildings.
+
 Image Specifications: 500x500 pixels; Zoom ratio used: 18.
+
 API: Microsoft Bing Maps (Virtual Earth).
 
