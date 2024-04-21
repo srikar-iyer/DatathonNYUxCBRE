@@ -1,5 +1,42 @@
 # Project Repository Overview
 ## Link to slides - https://docs.google.com/presentation/d/1S7SLj6zBwFhO1dV_DiJdLs02rH5djUAqbaNpyj-mwJY/edit?usp=sharing
+
+### Warehouse Construction Progress Prediction
+This project aims to predict the stage of progress of unseen warehouses using convolutional neural network (CNN) models and linear regression algorithms. The goal is to achieve between 70% to 60% accuracy in predicting warehouse progress stages and to estimate the number of quarters required for warehouse completion.
+
+### Objective
+The main objective of this project is to understand and predict the progress of warehouse construction over time. By analyzing satellite imagery of warehouses and utilizing relevant data such as square footage and progress stages, the project seeks to provide insights into when warehouses are expected to be completed.
+
+### Approach
+### CNN Model Training:
+Train CNN models to predict warehouse progress stages from satellite imagery.
+Evaluate model performance using ground truth data.
+Linear Regression Modeling:
+Train linear regression algorithms to predict the number of quarters required for warehouse completion.
+Use input parameters such as progress stages and square footage to predict completion timelines.
+Integration and Prediction:
+Combine predictions from CNN models and linear regression algorithms to estimate the total number of warehouses completed within a specific timeframe.
+Provide insights into the progress of warehouse construction projects.
+
+### Usage
+Data Collection:
+Gather satellite imagery of warehouses and relevant data such as square footage and progress stages.
+Model Training:
+Train CNN models using the collected data to predict progress stages.
+Train linear regression algorithms to estimate the number of quarters required for completion.
+Prediction:
+Use trained models to predict warehouse progress stages and completion timelines.
+Aggregate predictions to estimate the total number of completed warehouses within a given timeframe.
+
+### Requirements
+Python 3.x
+Libraries: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+Access to satellite imagery data (e.g., Bing Maps API)
+### Contributors
+Chandana Srinivasa Yatisha (cs7074@nyu.edu) - New York University
+Srikar Iyer (smi6065@nyu.edu) - New York University
+Unce Shahid (us2056@nyu.edu) - New York University
+Amya Kondamani (ak8699@nyu.edu) - New York University
 ### Repository Contents:
 
 ### BingAPI_.ipynb: 
