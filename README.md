@@ -5,10 +5,6 @@ Link to slides - https://docs.google.com/presentation/d/1S7SLj6zBwFhO1dV_DiJdLs0
 
 Link to dataset - https://drive.google.com/drive/folders/1mcrTbJMYEaPSnM5Q1o6_RC8A27pgou_W
 
-
-### Objective
-The main objective of this project is to understand and predict the progress of warehouse construction over time. By analyzing satellite imagery of warehouses and utilizing relevant data such as square footage and progress stages, the project seeks to provide insights into when warehouses are expected to be completed.
-
 ### Approach
 ### CNN Model Training:
 Train CNN models to predict warehouse progress stages from satellite imagery.
